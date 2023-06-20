@@ -54,7 +54,7 @@ Please make sure to install these dependencies before running the code.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/credit-risk-classification.git
+   git clone https://github.com/pceworkflow/credit-risk-classification.git
    ```
 
 2. Navigate to the project directory:
